@@ -1,16 +1,27 @@
-### Hi there 👋
+# Oi, eu sou a Maria Vitória Flor 
+ou apenas 
 
-<!--
-**mariav-flor/mariav-flor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Maria Flor 🌸
 
-Here are some ideas to get you started:
+## Pronomes
+Ela/Dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que estou fazendo
+
+- Aluna de Sistemas para Internet no Instituto Federal de Brasília (IFB).
+- Mentorada no Big Open Source Sister - [BOSS](https://github.com/BOSS-BigOpenSourceSister), programa para inclusão de mulheres na área de contribuição open source.
+- Membra orgulhosa das [Pyladies DF](https://github.com/pyladiesdf). 
+
+## O que eu amo aprender
+
+- Análise de mídia e B.I.
+- Tecnologias colaborativas.
+- Programar em python.
+
+## Fato curioso
+
+Pareço fofa, mas sou anarquista de coração. Continuo sendo fofa. 
+
+## Vamos trocar uma ideia!
+
+Você pode me achar por aí pelo nickname @mariav-flor (ou mariav_flor) ou entrar em contato por email: mariavioria.ffa@gmail.com. 💌
