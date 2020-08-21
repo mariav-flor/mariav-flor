@@ -1,12 +1,13 @@
 # Oi, eu sou a Maria Vitória Flor 
 ou apenas 
 
-# Maria Flor 🌸
+# Maria Flor 🌻
 
 ## Pronomes
 Ela/Dela
 
-![](https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504)
+<img align = 'right' alt = "gif of a cat typing at a computer" src ="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" 
+width = "250"/>
 
 ## O que estou fazendo
 
@@ -24,8 +25,10 @@ Ela/Dela
 
 Pareço fofa, mas sou anarquista de coração. Continuo sendo fofa. 
 
-![](https://giphy.com/gifs/daria-v8muofW7bdqOk)
+<img align = 'center' alt = "gif of daria morgendorffer slightly smiling" src ="https://media.giphy.com/media/v8muofW7bdqOk/giphy.gif" width = "200"/>
 
 ## Vamos trocar uma ideia!
 
 Você pode me achar por aí pelo nickname @mariav-flor (ou mariav_flor) ou entrar em contato por email: mariavioria.ffa@gmail.com. 💌
+
+Se quiser, também pode dar uma olhada no meu [Linkedin](https://www.linkedin.com/in/mariavitoria).
