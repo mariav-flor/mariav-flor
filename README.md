@@ -6,6 +6,8 @@ ou apenas
 ## Pronomes
 Ela/Dela
 
+![](https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504)
+
 ## O que estou fazendo
 
 - Aluna de Sistemas para Internet no Instituto Federal de Brasília (IFB).
@@ -21,6 +23,8 @@ Ela/Dela
 ## Fato curioso
 
 Pareço fofa, mas sou anarquista de coração. Continuo sendo fofa. 
+
+![](https://giphy.com/gifs/daria-v8muofW7bdqOk)
 
 ## Vamos trocar uma ideia!
 
