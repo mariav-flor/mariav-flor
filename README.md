@@ -25,7 +25,7 @@ width = "250"/>
 
 Pareço fofa, mas sou anarquista de coração. Continuo sendo fofa. 
 
-<img align = 'center' alt = "gif of daria morgendorffer slightly smiling" src ="https://media.giphy.com/media/v8muofW7bdqOk/giphy.gif" width = "200"/>
+<img align = 'center' alt = "gif of daria morgendorffer" src="https://64.media.tumblr.com/307fa9d7b290acfd40d0f18094333f0f/01aaaa234c5c57fe-c5/s500x750/fa1fdf6a4801fb214697c5c8d6da63e445b6894d.gifv" width = "220"/>
 
 ## Vamos trocar uma ideia!
 
