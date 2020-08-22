@@ -12,7 +12,7 @@ width = "250"/>
 ## O que estou fazendo
 
 - Aluna de Sistemas para Internet no Instituto Federal de Brasília (IFB).
-- Mentorada no Big Open Source Sister - [BOSS](https://github.com/BOSS-BigOpenSourceSister), programa para inclusão de mulheres na área de contribuição open source.
+- Mentorada no Big Open Source Sister - [BOSS](https://github.com/BOSS-BigOpenSourceSister), programa de inclusão de mulheres no mundo do open source.
 - Membra orgulhosa das [Pyladies DF](https://github.com/pyladiesdf). 
 
 ## O que eu amo aprender
