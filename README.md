@@ -7,7 +7,7 @@ ou apenas
 Ela/Dela
 
 <img align = 'right' alt = "gif of a cat typing at a computer" src ="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" 
-width = "250"/>
+width = "280"/>
 
 ## O que estou fazendo
 
