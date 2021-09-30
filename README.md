@@ -17,15 +17,9 @@ width = "280"/>
 
 ## O que eu amo aprender
 
-- Análise de mídia e B.I.
+- Análise dados e B.I.
 - Tecnologias colaborativas.
-- Programar em python.
-
-## Fato curioso
-
-Pareço fofa, mas sou anarquista de coração. Continuo sendo fofa. 
-
-<img align = 'center' alt = "gif of daria morgendorffer" src="https://64.media.tumblr.com/307fa9d7b290acfd40d0f18094333f0f/01aaaa234c5c57fe-c5/s500x750/fa1fdf6a4801fb214697c5c8d6da63e445b6894d.gifv" width = "220"/>
+- Programar.
 
 ## Vamos trocar uma ideia!
 
