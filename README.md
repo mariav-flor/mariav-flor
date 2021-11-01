@@ -11,18 +11,11 @@ width = "280"/>
 
 ## O que estou fazendo
 
-- Aluna de Sistemas para Internet no Instituto Federal de Brasília (IFB).
-- Mentorada no Big Open Source Sister - [BOSS](https://github.com/BOSS-BigOpenSourceSister), programa de inclusão de mulheres no mundo do open source.
-- Membra orgulhosa das [Pyladies DF](https://github.com/pyladiesdf). 
-
-## O que eu amo aprender
-
-- Análise dados e B.I.
-- Tecnologias colaborativas.
-- Programar.
+- Analista de B.I.
+- Membro das [Pyladies DF](https://github.com/pyladiesdf). 
 
 ## Vamos trocar uma ideia!
 
-Você pode me achar por aí pelo nickname @mariav-flor (ou mariav_flor) ou entrar em contato por email: mariavioria.ffa@gmail.com. 💌
+Você pode me achar por aí pelo nickname @mariav-flor (ou mariav_flor) ou entrar em contato por email: mariavitoria.ffa@gmail.com. 💌
 
 Se quiser, também pode dar uma olhada no meu [Linkedin](https://www.linkedin.com/in/mariavitoria).
