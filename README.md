@@ -12,7 +12,6 @@ width = "280"/>
 ## O que estou fazendo
 
 - Analista de B.I.
-- Membro das [Pyladies DF](https://github.com/pyladiesdf). 
 
 ## Vamos trocar uma ideia!
 
