@@ -1,6 +1,3 @@
-# Oi, eu sou a Maria Vitória Flor 
-ou apenas 
-
 # Maria Flor 🌻
 
 ## Pronomes
